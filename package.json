@@ -1,0 +1,21 @@
+{
+  "name": "Mital",
+  "displayName": "Mital",
+  "description": "Mital the theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mital",
+        "uiTheme": "vs",
+        "path": "./themes/Mital-color-theme.json"
+      }
+    ]
+  }
+}
