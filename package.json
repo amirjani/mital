@@ -2,6 +2,10 @@
   "name": "Mital",
   "displayName": "Mital",
   "description": "Mital the theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amirjani/mital"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
