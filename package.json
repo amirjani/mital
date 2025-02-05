@@ -2,6 +2,7 @@
   "name": "Mital",
   "displayName": "Mital",
   "description": "Mital the theme",
+  "publisher": "AmirJani",
   "repository": {
     "type": "git",
     "url": "https://github.com/amirjani/mital"
