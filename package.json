@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/amirjani/mital"
   },
-  "version": "0.0.102",
+  "version": "0.0.103",
   "engines": {
     "vscode": "^1.96.0"
   },
