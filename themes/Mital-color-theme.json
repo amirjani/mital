@@ -8,7 +8,7 @@
 	  "sideBar.background": "#F9F9F9",
 	  "sideBar.border": "#EBEEF0",
 	  "sideBar.foreground": "#2C3E50",
-	  "sideBar.dropBackground": "#F5FAFF",
+	  "sideBar.dropBackground": "#F9F9F9",
 	  "sideBarTitle.border": "#AAB2B9",
 	  "sideBarSectionHeader.background": "#ECECEC",
 	  "sideBarSectionHeader.border": "#F2F2F2",
@@ -18,8 +18,8 @@
 	  "activityBar.foreground": "#34495E",
 	  "banner.background": "#F9F9F9",
 	  "breadcrumb.background": "#F5FAFF",
-	  "titleBar.activeBackground": "#F5FAFF",
-	  "tab.activeBackground": "#F9F9F9",
+	  "titleBar.activeBackground": "#F9F9F9",
+	  "tab.activeBackground": "#F5FAFF",
 	  "tab.hoverBackground": "#F9F9F9",
 	  "tab.activeBorder": "#34495E",
 	  "tab.inactiveBackground": "#F9F9F9"
@@ -32,14 +32,14 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#7F8C8D"
+        "foreground": "#6e7677"
       }
     },
     {
       "name": "Comments: Preprocessor",
       "scope": "comment.block.preprocessor",
       "settings": {
-        "foreground": "#7F8C8D"
+        "foreground": "#6e7677"
       }
     },
     {
@@ -49,8 +49,7 @@
         "comment.block.documentation"
       ],
       "settings": {
-        "foreground": "#95A5A6",
-        "fontStyle": "italic"
+        "foreground": "#6e7677",
       }
     },
     {
@@ -74,8 +73,7 @@
         "storage"
       ],
       "settings": {
-        "foreground": "#8E44AD",
-        "fontStyle": "bold"
+        "foreground": "#704080",
       }
     },
     {
@@ -85,7 +83,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#2980B9"
+        "foreground": "#704080"
       }
     },
     {
@@ -116,8 +114,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#226ae6",
-        "fontStyle": "bold"
+        "foreground": "#808000",
       }
     },
     {
@@ -128,8 +125,7 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#F39C12",
-        "fontStyle": "bold"
+        "foreground": "#2980B9",
       }
     },
     {
@@ -144,7 +140,6 @@
       "scope": "entity.name.section",
       "settings": {
         "foreground": "#2980B9",
-        "fontStyle": "bold"
       }
     },
     {
@@ -162,7 +157,7 @@
       "name": "Strings",
       "scope": "string",
       "settings": {
-        "foreground": "#D35400"
+        "foreground": "#2980B9"
       }
     },
     {
